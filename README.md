@@ -36,4 +36,4 @@ $ node prices.js
 I recommend using [pm2](https://github.com/Unitech/pm2) for managing bot.
 
 ### Todos
- - Bruteforce testing
+ - Nothing for now
