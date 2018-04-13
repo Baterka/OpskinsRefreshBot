@@ -1,0 +1,15 @@
+{
+  "name": "opskinsrefreshbot",
+  "version": "1.1.1",
+  "description": "OPSkins Refresh Bot by Baterka (https://baterka.xyz)",
+  "main": "bot.js",
+  "author": "Baterka.xyz",
+  "dependencies": {
+    "@opskins/api": "latest",
+    "async": "latest",
+    "cli-color": "^1.2.0",
+    "colors": "^1.1.2",
+    "express": "^4.16.2",
+    "fs": "latest"
+  }
+}
