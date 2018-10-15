@@ -1,6 +1,6 @@
 # OpskinsRefreshBot
 
-## This project was private. I made it public and it means it will most likely never be updated by me.
+## This project was private and paid. I made it public and it means it will most likely never be updated. Enjoy!
 
 Opskins Refresh Bot for refreshing prices automatically achieved by [OPSkinsAPI](https://docs.opskins.com/public/en.html).
 
